@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/ant/AndroidStudioProjects/Weather2/pullToRefreshViewPager/build/intermediates/res/merged/androidTest/debug/layout/pull_to_refresh_header_vertical.xml",
+        "source": "/Users/ant/AndroidStudioProjects/Weather2/pullToRefreshViewPager/build/intermediates/exploded-aar/Weather2/library/unspecified/res/layout/pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "/Users/ant/AndroidStudioProjects/Weather2/pullToRefreshViewPager/build/intermediates/res/merged/androidTest/debug/layout/pull_to_refresh_header_horizontal.xml",
+        "source": "/Users/ant/AndroidStudioProjects/Weather2/pullToRefreshViewPager/build/intermediates/exploded-aar/Weather2/library/unspecified/res/layout/pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "/Users/ant/AndroidStudioProjects/Weather2/pullToRefreshViewPager/build/intermediates/res/merged/androidTest/debug/layout/need_this_for_maven.xml",
+        "source": "/Users/ant/AndroidStudioProjects/Weather2/pullToRefreshViewPager/build/intermediates/bundles/debug/res/layout/need_this_for_maven.xml"
+    }
+]

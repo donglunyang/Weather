@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/ant/AndroidStudioProjects/Weather2/pullToRefreshViewPager/build/intermediates/res/merged/debug/anim/slide_in_from_bottom.xml",
+        "source": "/Users/ant/AndroidStudioProjects/Weather2/pullToRefreshViewPager/build/intermediates/exploded-aar/Weather2/library/unspecified/res/anim/slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/ant/AndroidStudioProjects/Weather2/pullToRefreshViewPager/build/intermediates/res/merged/debug/anim/slide_out_to_top.xml",
+        "source": "/Users/ant/AndroidStudioProjects/Weather2/pullToRefreshViewPager/build/intermediates/exploded-aar/Weather2/library/unspecified/res/anim/slide_out_to_top.xml"
+    },
+    {
+        "merged": "/Users/ant/AndroidStudioProjects/Weather2/pullToRefreshViewPager/build/intermediates/res/merged/debug/anim/slide_out_to_bottom.xml",
+        "source": "/Users/ant/AndroidStudioProjects/Weather2/pullToRefreshViewPager/build/intermediates/exploded-aar/Weather2/library/unspecified/res/anim/slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "/Users/ant/AndroidStudioProjects/Weather2/pullToRefreshViewPager/build/intermediates/res/merged/debug/anim/slide_in_from_top.xml",
+        "source": "/Users/ant/AndroidStudioProjects/Weather2/pullToRefreshViewPager/build/intermediates/exploded-aar/Weather2/library/unspecified/res/anim/slide_in_from_top.xml"
+    }
+]

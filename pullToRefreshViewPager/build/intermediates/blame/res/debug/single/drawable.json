@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ant/AndroidStudioProjects/Weather2/pullToRefreshViewPager/build/intermediates/res/merged/debug/drawable/indicator_bg_top.xml",
+        "source": "/Users/ant/AndroidStudioProjects/Weather2/pullToRefreshViewPager/build/intermediates/exploded-aar/Weather2/library/unspecified/res/drawable/indicator_bg_top.xml"
+    },
+    {
+        "merged": "/Users/ant/AndroidStudioProjects/Weather2/pullToRefreshViewPager/build/intermediates/res/merged/debug/drawable/indicator_bg_bottom.xml",
+        "source": "/Users/ant/AndroidStudioProjects/Weather2/pullToRefreshViewPager/build/intermediates/exploded-aar/Weather2/library/unspecified/res/drawable/indicator_bg_bottom.xml"
+    }
+]
